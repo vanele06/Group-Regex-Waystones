@@ -1,4 +1,10 @@
 # Group-Regex-Waystones
+## Craft Worthy
+
+```
+"ity o|er of r"
+```
+
 ## Group Modifyers
 
 Rare Mob 50%+
@@ -13,12 +19,12 @@ Rare Mob 30%+ and Quant 20%+
 
 Rare Mob 30%+ and Rarity 60%+
 ```
-"([3-9]\d)%.*er of r" "([6-9]\d|[1-9]\d{2})%.*ity"
+"([3-9]\d)%.*er of r" "([6-9]\d|[1-9]\d{2})%.*ity o"
 ```
 
 Rarity 120%+
 ```
-"(1[2-9]\d)%.*ity"
+"(1[2-9]\d)%.*ity o"
 ```
 
 Quant 25%+
@@ -40,5 +46,5 @@ Rare Mob 20%+
 
 Rarity 60%+
 ```
-"([6-9]\d|1[01]\d|120)%.*ity"
+"([6-9]\d|1[01]\d|120)%.*ity o"
 ```
