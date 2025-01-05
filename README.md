@@ -32,3 +32,13 @@ Group but:
 ```
 "pen|ss r|m pla"
 ```
+
+Rare Mob 20%+
+```
+"([2-9]\d)%.*er of r"
+```
+
+Rarity 60%+
+```
+"([6-9]\d|1[01]\d|120)%.*ity"
+```
