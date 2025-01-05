@@ -1,4 +1,5 @@
 # Group-Regex-Waystones
+## Group Modifyers
 
 Rare Mob 50%+
 ```
@@ -18,4 +19,9 @@ Rare Mob 30%+ and Rarity 60%+
 Rarity 120%+
 ```
 "(1[2-9]\d)%.*ity"
+```
+
+Quant 25%+
+```
+"(2[5-9])%.*quan"
 ```
