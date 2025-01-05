@@ -25,3 +25,10 @@ Quant 25%+
 ```
 "(2[5-9])%.*quan"
 ```
+
+## Solo Modifyers
+
+Group but:
+```
+"pen|ss r|m pla"
+```
