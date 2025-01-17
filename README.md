@@ -39,6 +39,11 @@ Group but:
 "pen|ss r|m pla"
 ```
 
+Delirious 50%+
+```
+"([5-9]\d|[1-9]\d{2})%.*delir"
+```
+
 Rare Mob 20%+
 ```
 "([2-9]\d)%.*er of r"
